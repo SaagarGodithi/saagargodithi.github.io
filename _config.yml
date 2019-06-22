@@ -6,11 +6,9 @@ permalink:           pretty
 # Setup
 title:               Saagar Godithi
 tagline:             'Welcome to my world.'
-description:         'Why are you here? Made by <a href="https://twitter.com/mdo" target="_blank">@saagargrips</a>.'
+description:         'Why are you here? Made by <a href="https://instagram.com/saagargrips" target="_blank">@saagargrips</a>.'
 baseurl:             ''
 gems:                
-paginate:            5
-paginate_path:       "page:num"
 
 # About/contact
 author:
