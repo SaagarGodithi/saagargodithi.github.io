@@ -103,14 +103,16 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-weight: bold;
 }
 .masthead-title a {
-  color: #505050;
+  color: #000000;
 }
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
-  color: #c0c0c0;
+  color: #ff0080;
   letter-spacing: 0;
 }
 
