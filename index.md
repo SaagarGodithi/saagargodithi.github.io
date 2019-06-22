@@ -25,7 +25,8 @@ title: Welcome
   <figcaption><i>I Want It I Need It</i>, <b>Death Grips</b></figcaption>
 </figure>
 
-below are my posts
+***
+
 {% for post in site.posts %}
   * {{ post.date | date_to_string }} [ {{ post.title }} ]({{ post.url }})
 {% endfor %}
