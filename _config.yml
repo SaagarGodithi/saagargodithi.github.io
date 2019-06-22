@@ -4,11 +4,11 @@
 permalink:           pretty
 
 # Setup
-title:               Saagar's Bangers
-tagline:             'A Music Blog'
+title:               Saagar Godithi
+tagline:             'Welcome to my world.'
 description:         'Why are you here? Made by <a href="https://twitter.com/mdo" target="_blank">@saagargrips</a>.'
 baseurl:             ''
-gems:                [jekyll-paginate]
+gems:                
 paginate:            5
 paginate_path:       "page:num"
 
