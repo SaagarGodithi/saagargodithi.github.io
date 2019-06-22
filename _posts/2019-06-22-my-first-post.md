@@ -5,7 +5,7 @@ title: My First Post
 
 # Wow! 
 
-Welcome to my first post! *I don't have anything interesting* to say so here is a post about some really basic `Python` examples because it is the only `Markdown` file I have ever written and I really want to test a post. 
+Welcome to my first post! *I don't have anything interesting to say* yet so here is a post about some really basic `Python` examples because it is the only `Markdown` file I have ever written and I really want to test a post. 
 
 ***
 
