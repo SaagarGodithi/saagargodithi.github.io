@@ -10,20 +10,22 @@ title: Welcome
 
 <figure>
   <p class="message">
-  Responsibility's cool, but there’s more things in life 
-  <br>Like getting your dick rode all fucking night
-  <br>By the kind of girl that knows how to keep her shit tight
-  <br>Legs in the air, looking like they feel nice
-  <br>Volcano pussy melt your peter like ice
-  <br>And the drugs got you going back for more cause you're like
-  <br>I just can't get enough of that cum clutch, well alright
-  <br>It's time to find one and take one
-  <br>Right now
-  <br>It's time to find one and make one say
-  <br>"I'm down"
+  Her boob gets so floppy
+  <br>She uses it as a fan to wave away his sickening B.O.​
+  <br>Now rubbing it off with a brick
+  <br>Dust for his panettone
+  <br>Every frog hops right up into her butthole
+  <br>Every frog eats a single butthole flea on its way in
+  <br>She brown box squeezes them all into froghost
+  <br>A flock of erect dicks on bat wings
+  <br>Pee-pees into her sleeping face
+  <br>And pointlessly tries to fuck a blue sky
   </p>
-  <figcaption><i>I Want It I Need It</i>, <b>Death Grips</b></figcaption>
+  <figcaption></figcaption>
 </figure>
+
+<p align="center"><iframe src="https://open.spotify.com/embed/track/2WuS3PjLJW15ckkwWXO8V2" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media" ></iframe></p>
+
 
 ***
 
