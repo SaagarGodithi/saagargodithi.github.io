@@ -26,8 +26,8 @@ title: Welcome
 
 <p align="center"><iframe src="https://open.spotify.com/embed/track/2WuS3PjLJW15ckkwWXO8V2" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media" ></iframe></p>
 
-
 ***
+
 
 {% for post in site.posts %}
   * {{ post.date | date_to_string }} [ {{ post.title }} ]({{ post.url }})
