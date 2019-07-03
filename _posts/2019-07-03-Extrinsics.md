@@ -1,6 +1,8 @@
+
+
 ---
 layout: post
-title: Camera Calibration Sparknotes: Extrinsics
+title: Basic stuff about Extrinsics
 ---
 
  > Here is a useless guide to camera extrinsics.
