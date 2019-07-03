@@ -2,6 +2,7 @@
 layout: post
 title: Camera Calibration Sparknotes: Extrinsics
 ---
+
  > Here is a useless guide to camera extrinsics.
  
  ![Image result for photographer stock image](https://c8.alamy.com/comp/GDB8H4/happy-one-indian-cameraman-photographer-camera-clicking-picture-photography-GDB8H4.jpg)
