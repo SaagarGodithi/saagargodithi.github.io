@@ -2,7 +2,6 @@
 --- 
 layout: post
 title: A Brief Summary of Extrinsics and Intrinsics
-
 ---
 
  > Here is a useless guide to camera calibration.
