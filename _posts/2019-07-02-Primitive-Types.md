@@ -172,7 +172,7 @@ parity(0b01011)
  **Hint**: Use a look-up table... how *TF* am I supposed to cache 2**64 words
 
 
-<message> At this point I am completely bamboozled so I take a peek at the solution. This is my first problem so I don't feel too bad about it. </message>
+<p class="message"> At this point I am completely bamboozled so I take a peek at the solution. This is my first problem so I don't feel too bad about it. </p>
 
 
 ```python
@@ -208,7 +208,7 @@ result => 0001 ^ 0001 = 0000
 The complexity of both our algorithms is *O(n)*. Let's follow EPI to see how they bring that down. 
 
 ##### First Improvement: Drop the lowest set bit trick!
-###### Memorize: `x&(x-1) equals x with lowest set bit erased` AND `x&~(x-1)` isolates lowest bit
+###### Memorize: `x&(x-1) equals x with lowest set bit erased` AND `x&~(x-1) isolates lowest bit`
  
 
 Drop the lowest set bit to improve our best case performance. 
