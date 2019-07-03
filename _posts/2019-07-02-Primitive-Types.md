@@ -188,13 +188,13 @@ def parity(x):
 ###### Tracing this solution
 Let's choose `x = 1111`
 
-<u>_loop 1:_</u>
+_<u>loop 1:</u>_
 
 Therefore `result= 0000 ^ 0001` which is in fact makes `result = 0001`.
 
 `x = 111`
 
-<u>_loop 2:_</u>
+_<u>loop 2:</u>_
 
 Therefore `result= 0001 ^ 0001` which is in fact makes `result = 0000`.
 
