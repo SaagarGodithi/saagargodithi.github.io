@@ -1,6 +1,10 @@
+---
+layout: post
+title: Documenting is the new procrastination
+---
 
 # Primitive Types 
-> Today I will document relearning primitive types and my attempt to solve the first problem in EPI. 
+> Today I will document relearning primitive types and my attempt to solve the first problem in EPI. I really don't want to do this. But I have to, so I might as well write about it to make the process take a lot longer than it should. 
 
 
 ```python
