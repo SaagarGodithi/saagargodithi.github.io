@@ -186,23 +186,19 @@ def parity(x):
 ```
 
 ###### Tracing this solution
-input 1111
+Let's choose `x = 1111`
 
-_loop 1:_
+<u>_loop 1:_</u>
 
-x = 1111
+Therefore `result= 0000 ^ 0001` which is in fact makes `result = 0001`.
 
-result => 0000 ^ 0001 = 0001
+`x = 111`
 
-x = 111
+<u>_loop 2:_</u>
 
-_loop 2:_
+Therefore `result= 0001 ^ 0001` which is in fact makes `result = 0000`.
 
-x = 111
-
-result => 0001 ^ 0001 = 0000
-
-... **result = mod 2 count!**
+... **result tracks mod 2 of count!**
 
 
 The complexity of both our algorithms is *O(n)*. Let's follow EPI to see how they bring that down. 
