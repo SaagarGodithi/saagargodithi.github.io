@@ -7,7 +7,7 @@ title: Brief Summary of Camera Calibration
  > Here is a useless guide to camera calibration.
  
  ![Image result for photographer stock image](https://c8.alamy.com/comp/GDB8H4/happy-one-indian-cameraman-photographer-camera-clicking-picture-photography-GDB8H4.jpg)
-<p>WTF are <strong>Camera Extrinsics and Intrinsics</strong>?_</p>
+_<p>WTF are <strong>Camera Extrinsics and Intrinsics</strong>?</p>_
 <ul>
 <li><p>understanding and mapping the geometry of the scene (4 coordinate systems)</p>
 <ul>
