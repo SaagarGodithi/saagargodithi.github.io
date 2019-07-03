@@ -1,6 +1,6 @@
 
 --- 
-layout:post
+layout: post
 title: A Brief Summary of Extrinsics and Intrinsics
 
 ---
