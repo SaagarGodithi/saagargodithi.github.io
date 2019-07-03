@@ -196,7 +196,7 @@ _<u>loop 1:</u>_
 
 _<u>loop 2:</u>_
 
-`result= 0001 ^ 0001` therefor `result = 0000`.
+`result= 0001 ^ 0001` therefore `result = 0000`.
 
 `x = 0011`
 
