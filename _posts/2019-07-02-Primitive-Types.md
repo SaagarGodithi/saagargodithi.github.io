@@ -190,13 +190,13 @@ Let's choose `x = 1111`
 
 _<u>loop 1:</u>_
 
-Therefore `result= 0000 ^ 0001` which is in fact makes `result = 0001`.
+Therefore `result= 0000 ^ 0001` which in fact makes `result = 0001`.
 
 `x = 111`
 
 _<u>loop 2:</u>_
 
-Therefore `result= 0001 ^ 0001` which is in fact makes `result = 0000`.
+Therefore `result= 0001 ^ 0001` which in fact makes `result = 0000`.
 
 ... **result tracks mod 2 of count!**
 
