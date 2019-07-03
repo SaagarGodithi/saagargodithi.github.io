@@ -1,6 +1,6 @@
 ---
 layout: post
-title: sdfjkhsd
+title: Brief Summary of Camera Calibration
 ---
  
 
