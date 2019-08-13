@@ -2,29 +2,24 @@
 layout: default
 title: Welcome
 ---
-
+# Song of the Week
 <figure>
-  <img src="public/imgs/stefan.png" alt="Stefan Burnett"/>
+  <img src="public/itekoma.png" alt="Itekoma Hits"/>
   <figcaption></figcaption>
 </figure>
 
 <figure>
   <p class="message">
-  Her boob gets so floppy
-  <br>She uses it as a fan to wave away his sickening B.O.​
-  <br>Now rubbing it off with a brick
-  <br>Dust for his panettone
-  <br>Every frog hops right up into her butthole
-  <br>Every frog eats a single butthole flea on its way in
-  <br>She brown box squeezes them all into froghost
-  <br>A flock of erect dicks on bat wings
-  <br>Pee-pees into her sleeping face
-  <br>And pointlessly tries to fuck a blue sky
-  </p>
-  <figcaption><i>Girl with a Basket of Fruit</i>, <b>Xiu Xiu</b></figcaption>
+  Don't Don’t Don’t Don’t
+  <br>Don't light my fire
+  <br>Don’t light my fire
+  <br>Don't GO Don't GO Don't GO GO GO
+  <br>Don't light my fire
+  <br>Or not GO TO HELL
+  <figcaption><i>Don't light my fire</i>, <b>Otoboke Beaver</b></figcaption>
 </figure>
 
-<p align="center"><iframe src="https://open.spotify.com/embed/track/2WuS3PjLJW15ckkwWXO8V2" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media" ></iframe></p>
+<p align="center"><iframe src="https://open.spotify.com/embed/track/18ThXUp9jiQg26iD1w8reE" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></p>
 
 ***
 
