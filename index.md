@@ -4,7 +4,7 @@ title: Welcome
 ---
 # Song of the Week
 <figure>
-  <img src="public/itekoma.png" alt="Itekoma Hits"/>
+  <img src="public/imgs/itekoma.png" alt="Itekoma Hits"/>
   <figcaption></figcaption>
 </figure>
 
