@@ -20,7 +20,7 @@ title: Welcome
   <figcaption><i>Don't light my fire</i>, <b>Otoboke Beaver</b></figcaption>
 </figure>
 
-<p align="center"><iframe src="https://open.spotify.com/embed/track/18ThXUp9jiQg26iD1w8reE" width="450" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></p>
+<p align="center"><iframe src="https://open.spotify.com/embed/track/18ThXUp9jiQg26iD1w8reE" width="320" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></p>
 
 {% for post in site.posts %}
   * {{ post.date | date_to_string }} [ {{ post.title }} ]({{ post.url }})
