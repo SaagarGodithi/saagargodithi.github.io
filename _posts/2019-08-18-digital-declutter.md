@@ -86,4 +86,4 @@ I won't say:
 
 I want to live a satisfying life. And I think that being more present and making conscious decisions about how I spend my time is how I will achieve this goal.
 
-So if you want to stay in contact, please call, FaceTime or email me! *Bye!*
+So if you want to stay in contact, please <del>call,</del> (cannot disable text without disabling call) FaceTime/FaceTime Audio or email me! *Bye!*
