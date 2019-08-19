@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital Declutter: A thirty-day break from Technology
+title: Digital Declutter, A thirty-day break from Technology
 ---
 
 *Where did all my time go?*
