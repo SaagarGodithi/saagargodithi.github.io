@@ -5,8 +5,8 @@ title: Day 2, The mind is a whore
 
 Here's what I've learned today (or rather what I've always known but never cared about until now): the human mind wants to be constantly stimulated. I am naturally drawn towards multitasking because for some reason I feel incredibly vulnerable when committed to focusing on just one thing. It's daunting to build a monogamous relationship with the present moment. It's never cuffing season with the mind. 
 
-<figure align="center">
-  <img src="/public/imgs/tidal.jpg" alt="Tidal"/>
+<figure>
+  <img src="/public/imgs/tidal.jpg" alt="Tidal" align="center"/>
   <figcaption><i>Tidal</i>, <b>Fiona Apple</b></figcaption>
 </figure>
 
@@ -26,8 +26,8 @@ Today was more of the same. Enthusiasm is already fleeting and it's only day 2. 
 
 I couldn't even sit still and read an Aziz Ansari book — no disrespect, Aziz. I was so desperate for external stimulation that I starting picking at my mouth and accidentally PULLED OUT A TOOTH. 
 
-<figure align="center">
-  <img src="/public/imgs/tooth.png" alt="tooth"/>
+<figure>
+  <img src="/public/imgs/tooth.png" alt="tooth" align="center"/>
   <figcaption>a very yellow tooth/half tooth that I pulled out of my mouth</figcaption>
 </figure>
 
