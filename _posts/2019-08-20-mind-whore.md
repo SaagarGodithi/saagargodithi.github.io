@@ -1,21 +1,35 @@
 ---
 layout: post
-title: Day 1, no context
+title: Day 2, The mind is a whore
 ---
 
-It is day 1 of my digital declutter process and I am more enthusiastic about changing my life than ever. I am ready to use this momentum to try implementing all the habits I've always wanted to but never could. Having a good morning routine is one such habit. Let me share what was going on in my mind as I started to think about a worthwile morning routine:
+Here's what I've learned today (or rather what I've always known but never cared about until now): the human mind wants to be constantly stimulated. I am naturally drawn towards multitasking because for some reason I feel incredibly vulnerable when committed to focusing on just one thing. It's daunting to build a monogamous relationship with the present moment. It's never cuffing season with the mind. 
 
-*I should begin my routine by writing down my goals for the day.*
+<figure>
+  <img src="public/imgs/tidal.jpg" alt="Tidal"/>
+  <figcaption><i>Tidal</i>, <b>Fiona Apple</b></figcaption>
+</figure>
 
-*Wait, isn't there a system for that?*
+Last night, I sat down and listened to **Tidal** by *Fiona Apple*. It has been quite sometime since I've *tried* to do nothing but listen to an album in its entirety. While it was an incredible experience *trying* to be completely immersed in the music, it wasn't exactly what I was expecting. 
 
-*Oh, yeah! I think it's called Bullet Journal.*
+It felt like watching a film in a theater where the only people in the room were you and your obnoxious friend munching on popcorn, slurping on their soda and taking all the room on the shared arm space. They can't help but make dumbass suggestions every couple of seconds like:
 
-*Let me look it up so I can do that.*
+*Yo, pay attention to the lyrics!*
 
-*Oh, wait. I can't.*
+*Woah! Are you hearing this instrumentation? You should listen to the instrumentation.*
 
-According to my contract, I cannot use technology for any non-essential task. I can no longer Google a tutorial on how to plan my day or watch Matt D'Avella on YouTube telling me about his findings after trying it out for 30 days. I am for the first time in an information vacuum — if you exclude books and talking to people. Do I actually have to come up with a plan by myself when there are thousands experts online who are ready to share advice for free? How do I know if my plan will be any good?
+*Wait, what did she just say? I couldn't tell. Can you go back? Go back! I didn't hear what she said.*
 
-Another goal of mine is to try to listen to albums from a critical standpoint and maybe write some reflections or reviews. The first thing that I think I would want to do when reviewing an album is to go to metacritic and read some reviews by established critics so I can try to understand what lens to listen to the album through. Then i would go read the artist's wikipedia page and so I can gain context behind what inspired the album.  Then maybe go to Genius so I can read the lyrics and see some annotations on them too. But none of that is allowed. The only thing that I can use to judge the album is my mind. I have no training wheels to let me know if my opinion is any good. I have an irrational fear that **my opinion won't be right**.
+I spent more mental energy thinking about how I should listen to the music than actually listening to the music itself. Being that mentally distracted really took away from the listening experience, but it made it *easier*. 
+
+Today was more of the same. Enthusiasm is already fleeting and it's only day 2. I found myself replacing my usual mind numbing habits with new ones. Scrolling through Instagram during my bathroom break was replaced with scrolling through my Screen Time stats in the settings app. Messaging my friends on facebook was replaced by engaging with and reacting to unnecessary posts on my work's Slack.
+
+I couldn't even sit still and read an Aziz Ansari book — no disrespect, Aziz. I was so desperate for external stimulation that I starting picking at my mouth and accidentally PULLED OUT A TOOTH. 
+
+<figure>
+  <img src="public/imgs/tooth.jpg" alt="tooth"/>
+  <figcaption>a very yellow tooth/half tooth that I pulled out of my mouth</figcaption>
+</figure>
+
+Without Facebook or Instagram, will the rest of my 29 teeth be enough for the next 29 days?
 
