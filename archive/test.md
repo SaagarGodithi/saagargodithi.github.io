@@ -81,7 +81,7 @@ I get bored just as often as I did before. The only difference, however, is that
 
 I feel like I probably encountered most of these ideas earlier in random blog posts or YouTube videos. They don't feel unique at all. But I only really feel like I've absorbed and understood them after this week. I guess it ties into #5 — if we stop trying to look at everything, we can start to abstract significant value from the things right in front of us. 
 
-Reviewbrah of *Report Of The Week* once said, "Everything Burger King touches turns to garbage". Reviewbrah is right. In this case, Burger King is your mind. But the thing is that if you use your mind correctly, it can retain worlds of information and create magical things. One of those magical things, ladies and gentlemen, is the **Popeyes Chicken Sandwich** (Burger King is the parent company of Popeyes. I was compelled finish this metaphor. I am not apologizing.).
+Reviewbrah of *Report Of The Week* once said, "Everything Burger King touches turns to garbage". Reviewbrah is right. In this case, Burger King is your mind. But the thing is that if you use your mind correctly, it can retain worlds of information and create magical things. One of those magical things, ladies and gentlemen, is the **Popeyes Chicken Sandwich** (Burger King is the parent company of Popeyes. I was compelled finish this metaphor. I am not apologizing).
 
 ## updates to rules
 
