@@ -41,9 +41,11 @@ I thought that forcing myself to completely embrace the idea of Conscious Media 
 
 [Here's a (slightly altered) quote by my favorite digital minimalist JPEGMAFIA:](https://open.spotify.com/track/5pUudDDuJgIpgKIGk2zmxv?si=Jcvf3TVjSeqfJk06mIlynA)
 
-> It's ironic how you **stress yourself out by seeking mental clarity**
-> And have the nerve **to say you are "trying to live deliberately"**, wow
-> You ain't real, you're a Jarrod
+> *It's ironic how you **stress yourself out by seeking mental clarity***
+>
+> *And have the nerve **to say you are "trying to live deliberately"**, wow*
+>
+> *You ain't real, you're a Jarrod*
 
 Damn, Peggy. 
 
