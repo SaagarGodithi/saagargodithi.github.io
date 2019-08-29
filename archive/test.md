@@ -85,6 +85,8 @@ Reviewbrah of *Report Of The Week* once said, "Everything Burger King touches tu
 
 ## updates to rules
 
+Here are a list of changes I am making to my technology rules to reflect the lessons learned from the past week:
+
 - Choice sucks 
   - Only allowed to check email between 11:15-11:30 AM and 8:30-8:45PM
   - Only allowed to check slack between 11:15-11:30 AM, 12:45-1:00PM (after lunch break) and 4:15-4:30 PM
