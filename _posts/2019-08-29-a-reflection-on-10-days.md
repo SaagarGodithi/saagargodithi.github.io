@@ -13,7 +13,7 @@ With that being said, this my reflection on the experience so far:
 
 ### Realization 0.5*: Things don't change in a day
 
-The week at work started off very strong. I was super productive at work the first day. I was less distracted and got about 3x more work done than I usually do. However, since day 2, it's basically been back to normal (at least at work). I've achieved normalcy by new means — browsing through email and being super responsive on slack have been my new forms of procrastination. It's ironic how even though these seem like productive pursuits, I find them to be the most distracting things in the office. 
+The week at work started off very strong. I was super productive the first day. I was less distracted and got about 3x more work done than I usually do. However, since day 2, it's basically been back to normal (at least at work). I've achieved normalcy by new means — browsing through email and being super responsive on slack have been my new forms of procrastination. It's ironic how even though these seem like productive pursuits, I find them to be the most distracting things in the office. 
 
 *0.5 because this was not really a realization but more of an educated guess based off of past experiences. This was expected because hopeful life altering cold turkey experiments are not anything new for me. This one is just unique because I actually seem to be following through on my promises for once. 
 
