@@ -77,7 +77,7 @@ Here is something slightly related that I would like to explore more later: in t
 
 ### Realization 6: Sleepiness != Lethargy 
 
-These are two very different feelings that I always confused as the same thing. Sleepiness is exactly what it sounds like, it's the feeling of how easy it is to fall asleep. I'm a whole lot more sleepy by the end of the day and tend to want to sleep earlier now. BUT I feel less lethargic. Put in other words, I feel less mentally exhausted. I have higher energy levels and feel a lot more present. I feel less tired but ironically can pass out with ease. Moral of the story is that blue light sucks. 
+These are two very different feelings that I've always confused as the same thing. Sleepiness is exactly what it sounds like, it's the feeling of how easy it is to fall asleep. I'm a whole lot more sleepy by the end of the day and tend to want to sleep earlier now. BUT I feel less lethargic. Put in other words, I feel less mentally exhausted. I have higher energy levels and feel a lot more present. I feel less tired but ironically can pass out with ease. Moral of the story is that blue light sucks. 
 
 ### Realization 7: Boredom is primarily born out of fear 
 
