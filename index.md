@@ -7,19 +7,12 @@ title: Welcome
   <figcaption></figcaption>
 </figure>
 
-### Things I'm currently consuming:
+#### Things I'm currently consuming:
 
-- Books: Hero of Ages (Mistborn), American Pastoral, Pachinko, The Last Wish (The Witcher)
-- TV & Film: N/A :((
-- Albums: N/A :((
-- Other: tiktok getting banned tiktoks :o
-
-#### Content consumed since Journal Inception (August 3, 2020):
-
-- Books: 0
-- TV Shows: 0
-- Movies: 0
-- Albums: 0
+- **Books:** *Hero of Ages (Mistborn), American Pastoral, Pachinko, The Last Wish (The Witcher)*
+- **TV & Film:** *N/A* 
+- **Albums:** *N/A*
+- **Other:** *TikToks about TikTok getting banned...*
 
 {% for post in site.posts %}
   * {{ post.date | date_to_string }} [ {{ post.title }} ]({{ post.url }})
