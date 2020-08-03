@@ -47,7 +47,7 @@ I read a book called *I'm Thinking of Ending Things* back in May. The audiobook 
 Went down to my apartment in LA and got my audio equipment. Have not taken advantage of it yet. Will mostly be listening to old favorites in the thoroughly missed high quality audio.
 
 - **how i'm feeling now** by *Charli XCX*
-    - Fun Fact: Charli used one of my lines on the song Anthem! She came up with the verses of that song over an IG livestream.
+    - Fun Fact: Charli used one of my lines on the song *anthems*! She came up with the verses of that song over an IG livestream.
     - I want to listen to this with proper **BASS** and **deeeppppth**.
 - **My Bloody Valentine Discography**
     - I am craving the carress of noise.
