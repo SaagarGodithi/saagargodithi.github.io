@@ -36,7 +36,7 @@ While I do think it is incredibly important to stay updated on current affairs, 
 
 ### No YouTube/Netflix/Prime Video etc. 
 
-This is by far the hardest thing for me to give up. I think YouTube is one of the few platforms where the positives I gain from the content I consume still marginally outweight the negatives of mindlessly clicking on recommeded videos. I spend a huge chunk of my time consuming video content and I do not know yet what boredom curing activity will replace this during my thirty-day break.
+This is by far the hardest thing for me to give up. I think YouTube is one of the few platforms where the positives I gain from the content I consume still marginally outweigh the negatives of mindlessly clicking on recommended videos. I spend a huge chunk of my time consuming video content and I do not know yet what boredom curing activity will replace this during my thirty-day break.
 
 **Exception**: Consuming restricted content such as YouTube or Netflix in an in-person social setting is OK. I'm not gonna forcefully close my eyes if my friends want to watch *The Great British Bake Off* with me.
 
