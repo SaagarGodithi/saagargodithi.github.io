@@ -28,7 +28,7 @@ Keep in mind. I am obsessed with reading at the moment. It is the content that I
 - **Umbrella Academy Season 2**
     - It's out! I remember thoroughly enjoying season 1. Don't remember much of the actual show, however. Fun banter? Time Travel? End of the World? I'm down.
 - **Death Note**
-    - I am one of the sad few that saw the movie first. The concept of the movie was great, but the execution... I am looking forward to seeing the concept actually executed on properly. I watched the first episode and was surprised how quickly they set up the concept of the show. Also the animation is solid (at least on HBO). I was kinda worried the quality wouldn't be the best given it is the most recent anime. 
+    - I am one of the sad few that saw the movie first. The concept of the movie was great, but the execution... I am looking forward to seeing the concept actually executed on properly. I watched the first episode and was surprised how quickly they set up the concept of the show. Also the animation is solid (at least on HBO). I was kinda worried the quality wouldn't be the best given it isn't the most recent anime. 
 - **Love on the Spectrum**
     - Reality docuseries that a lot of people seem to be watching now. This was recommended to me. Not something I would watch normally. But I think it will be educational and cute. Plus, it will be a nice break from the more intense series mentioned above. 
 
