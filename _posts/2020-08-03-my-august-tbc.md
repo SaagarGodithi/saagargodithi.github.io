@@ -9,17 +9,17 @@ Here are the things I plan to consume in the month of August! I doubt I have eno
 
 # Books
 - **Hero of Ages (Book #3, Mistborn Era 1)** by *Brandon Sanderson*
-    - Finally on the last book in the Final Empire! I'm pretty excited for this one. *The Well of Ascension* (Book 2) really set up the stage for an exciting third act by leveling up the threat from fake god to actual god. And Brando Sando Lando is like known for his endings. So I'm very excited for the ending to the ending of the series. 
+    - **SPOILERS**: Finally on the last book in the Final Empire! I'm pretty excited for this one. *The Well of Ascension* (Book 2) really set up the stage for an exciting third act by leveling up the threat from fake god to actual god. And Brando Sando Lando is like known for his endings. So I'm very excited for the ending to the ending of the series. 
 - **American Pastoral** by *Philip Roth*
     - This is the book that was selected for the book club I'm a part of. Way out of my comfort zone. Would not read this unless forced to. It's a literary fiction/historical fiction that is intentionally overwritten and has very verbose tangential train of thought writing style. It's good to expand literary horizons but I'm worried this might make me fall back into my high school reading habits, aka not reading. 
 - **Pachinko** by *Min Jin Lee*
-    - This was given to me by a friend like more than 9 months ago at this point. I have seen a few interviews of Min Jin Lee and wow she is incredible. I have read the first few chapters and I'm loving the writing style - simple but deeply nuanced. I have a strong feeling this will make me cry. 
+    - This was given to me by a friend more than 9 months ago at this point. I have seen a few interviews of Min Jin Lee and wow she is incredible. I have read the first few chapters and I'm loving the writing style - simple but deeply nuanced. I have a strong feeling this will make me cry. 
 - **The Last Wish (Short story collection #1, The Witcher)** by *Andrzej Sapkowski*
     - I thought I might like *The Witcher* after discovering that it is allegedly one of the better character-based fantasy series. So I'm giving this a try. I think it's always good to have a short story book to read so there's a little bit of a breath to take between **thicc** novels.
 - **The Way of Kings (Book #1, The Stormlight Archive)** by *Brandon Sanderson*
     - This is the book I have been building up to. I started my fantasy phase this year in May with the *Six of Crows Duology*. While I did enjoy it, I was craving something with a little less teen-angsty. I ended up stumbing upon *The Stormlight Archive*, "The Greatest Fantasy story currently being told". After doing some research, it was suggested to me that I start with Mistborn instead before I dedicate myself to such a big series. As you can see, I'm almost done with Mistborn! Once I wrap up that (and the books previously mentioned), I will start this book - aiming to start by the last week of August. 
 
-Keep in mind. I am obsessed with reading at the moment. It is the content that I have put the most thought into. The purpose of this journal is more so what follows. I have been reading too much then getting fatigued and then watching short-form content on TikTok and Youtube. Instead, I would like to read a little less and consume other mediums the value equally as well. 
+Keep in mind. I am obsessed with reading at the moment. It is the content that I have put the most thought into. The purpose of this journal is more so what follows. I have been reading too much then getting fatigued and then watching short-form content on TikTok and Youtube. Instead, I would like to read a little less and consume other mediums that I value equally as well. 
 
 # TV Shows
 
